@@ -1,5 +1,5 @@
 # submarines
 
-Test submodules.
+Testing submodules.
 
 Submodule repo.
